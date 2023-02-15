@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Deploy](https://github.com/facebook/create-react-app).
 
-<a src="">Deploy</a>
+
 
 ## Available Scripts
 
